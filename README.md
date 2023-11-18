@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <path fill="#3498db" d="M10 80 Q 95 10 180 80" stroke="#2980b9" stroke-width="5">
-    <animate attributeName="d" dur="3s" repeatCount="indefinite"
-      values="M10 80 Q 95 10 180 80; M10 80 Q 95 150 180 80; M10 80 Q 95 10 180 80" />
-  </path>
-</svg>
+![Animated GIF]([https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif](https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J))
+
 
 I'm Aya Gamal, a passionate Front-end Developer.
 
