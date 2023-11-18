@@ -1,17 +1,17 @@
 ### Hi there 👋
 
+<img align="right" width="400" height="400" src="https://media2.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif?cid=ecf05e47q6y5haokes791q1kdh172oafb5vm8h25gntzn2fd&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="she codes" />
+
 I'm Aya Gamal, a passionate Front-end Developer.
-    
-<img align="right" width="300" height="300" src="https://media2.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif?cid=ecf05e47q6y5haokes791q1kdh172oafb5vm8h25gntzn2fd&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="she codes" />
 
 🚀 Here are some technologies I work with:
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)<br>
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)<br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)<br>
+![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)<br>
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)<br>
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
 
 <!--
