@@ -1,6 +1,7 @@
+<img align="right" width="400" height="400" src="https://media2.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif?cid=ecf05e47q6y5haokes791q1kdh172oafb5vm8h25gntzn2fd&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="she codes" />
+
 ### Hi there 👋
 
-<img align="right" width="400" height="400" src="https://media2.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif?cid=ecf05e47q6y5haokes791q1kdh172oafb5vm8h25gntzn2fd&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="she codes" />
 
 I'm Aya Gamal, a passionate Front-end Developer.
 
