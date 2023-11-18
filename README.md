@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Animated GIF]([https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif](https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J))
+![Animated GIF](https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J)
 
 
 I'm Aya Gamal, a passionate Front-end Developer.
