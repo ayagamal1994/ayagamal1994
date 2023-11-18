@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Aya Gamal, a passionate Front-end Developer.
+
+🚀 Here are some technologies I work with:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Tailwind
+- React
 <!--
 **ayagamal1994/ayagamal1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
